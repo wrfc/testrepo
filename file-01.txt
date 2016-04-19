@@ -1,1 +1,2 @@
+# Random comment
 inside ./file-01.txt
