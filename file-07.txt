@@ -1,1 +1,1 @@
-inside ./file-07.txt
+Inside file-07.txt
