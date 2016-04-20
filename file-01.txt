@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # HOTFIX
-=======
-# Randome test 1
->>>>>>> testrep1
 # Random comment here
 
 # Yet another comment
