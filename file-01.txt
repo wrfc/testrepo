@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # HOTFIX
+=======
+>>>>>>> fix1
 # Random comment here
 
 # Yet another comment
