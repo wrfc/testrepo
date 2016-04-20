@@ -1,2 +1,5 @@
+# HOTFIX
 # Random comment here
+
+# Yet another comment
 Inside file-01.txt
